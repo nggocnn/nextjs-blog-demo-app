@@ -1,0 +1,8 @@
+---
+title: "Jeff Bezos promises $2 billion to help nature"
+date: "2021-11-08"
+---
+
+Many countries at the COP26 climate change conference are making promises to help Earth. They have signed agreements to end deforestation and cut methane emission levels by 30 per cent by 2030. Bosses of global companies are also at COP26. Jeff Bezos, the founder of Amazon, made a speech on Tuesday. He promised to give $2 billion to help nature. He said the money would restore landscapes to their more natural state. He also wants to transform food systems to make food production more sustainable. Mr Bezos also set up The Bezos Earth Fund in 2020. This is a $10-billion project to help fight climate change. In September, this fund gave $1 billion to help threatened indigenous peoples.
+
+Jeff Bezos said he decided to give more money to protect the planet after going into space in July. He said that looking at Earth from space made him understand the importance of helping our planet. He said: "Looking back at Earth from up there, the atmosphere seems so thin, the world so...fragile." In his COP26 speech, he said his trip into space changed his feelings about our planet. He said: "I was told that seeing Earth from space changes the lens through which you see the world, but I was not prepared for how much that would be true." He said it was time for all countries and corporations to act. He said: "In this critical year...we must all stand together to protect our world."

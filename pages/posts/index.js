@@ -23,7 +23,7 @@ export default function Posts({ allPostsData }) {
               <small className={utilStyles.lightText}>
                 <Date dateString={date} />
               </small>
-          </li>
+            </li>
           ))}
         </ul>
       </section>
